@@ -15,5 +15,6 @@ public class SumOfTwoNumbers {
 
         sum=num1+num2;
         System.out.println("The sum is: "+sum);
+        System.out.println("The sum is only of Integer Numbers");
     }
 }
